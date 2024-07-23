@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Software engineering**
 
-- ⚡ Fun fact **I am not funny**
+- ⚡ Fun fact **I am so funny**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
